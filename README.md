@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 About me
 
-I am a university professor and web developer with over three years of experience creating software for both freelance clients and companies.
+I am a university professor and web developer with over two years of experience creating software for both freelance clients and companies.
 
 Currently, I teach mobile app and web programming courses at the Dr. Jose Gregorio Hernandez University, while also developing software at my current company.
 
