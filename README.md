@@ -9,7 +9,9 @@
 About me
 </h2>
 
-University Professor and Web Developer with three years of experience in software development. I currently teach mobile and web programming at the Dr. Jose Gregorio Hernandez University while also working as a software developer.
+I am a university professor and web developer with over three years of experience creating software for both freelance clients and companies.
+
+Currently, I teach mobile app and web programming courses at the Dr. Jose Gregorio Hernandez University, while also developing software at my current company.
 
 <h2 align="left">
 Technologies I use
