@@ -9,9 +9,7 @@
 About me
 </h2>
 
-University Professor of Programming and Web Developer with three years of experience developing software for clients as a freelancer and companies.
-
-Currently, I teach the mobile apss signatures and a course of web programming at the university Dr. Jose Gregorio Hernandez at the same time i develop software in my current company.
+University Professor and Web Developer with three years of experience in software development. I currently teach mobile and web programming at the Dr. Jose Gregorio Hernandez University while also working as a software developer.
 
 <h2 align="left">
 Technologies I use
