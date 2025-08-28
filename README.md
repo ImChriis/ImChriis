@@ -5,17 +5,15 @@
   </h1>
 </div>
 
-<h2 align="left">
-About me
-</h2>
+## 👨🏻‍💻 About me
 
 I am a university professor and web developer with over three years of experience creating software for both freelance clients and companies.
 
 Currently, I teach mobile app and web programming courses at the Dr. Jose Gregorio Hernandez University, while also developing software at my current company.
 
-<h2 align="left">
-Technologies I use
-</h2>
+
+## 🖥 Technologies I use
+
 
 ![HTML](https://img.shields.io/badge/HTML-fc7f03?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css&logoColor=white)
@@ -33,5 +31,5 @@ Technologies I use
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Stats
+## 📊 Stats
 <img alt="ImChriis's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ImChriis&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=dec25f&icon_color=F8D866" height="192px"/><img alt="ImChriis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImChriis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=dec25f&icon_color=dec25f" height="192px"/>
