@@ -6,6 +6,14 @@
 </div>
 
 <h2 align="left">
+About me
+</h2>
+
+University Professor of Programming and Web Developer with three years of experience developing software for clients as a freelancer and companies.
+
+Currently, I teach a mobile apss and a course of web programming at the university Dr. Jose Gregorio Hernandez at the same time i develop software in my current company.
+
+<h2 align="left">
 Technologies I use
 </h2>
 
