@@ -12,7 +12,7 @@ I am a university professor and web developer with over three years of experienc
 Currently, I teach mobile app and web programming courses at the Dr. Jose Gregorio Hernandez University, while also developing software at my current company.
 
 
-## 🖥 Technologies I use
+## 🖥 Developmenst Skills
 
 
 ![HTML](https://img.shields.io/badge/HTML-fc7f03?style=for-the-badge&logo=html5&logoColor=white)
