@@ -22,6 +22,8 @@ Technologies I use
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Stats
 <img alt="ImChriis's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ImChriis&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=dec25f&icon_color=F8D866" height="192px"/><img alt="ImChriis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImChriis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=dec25f&icon_color=dec25f" height="192px"/>
