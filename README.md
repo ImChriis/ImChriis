@@ -6,10 +6,9 @@
 
 ## 👨🏻‍💻 About me
 
-I am a University Professor and Software Ingineer with over three years of experience developing software for both freelance clients and companies. 
+I am a University Professor and Software Ingineer with over three years of experience developing scalable software for both freelance clients and companies. 
 
-Currently, I teach mobile app and web programming courses at the Dr. Jose Gregorio Hernandez University, while also developing software at my current company.
-
+Currently, I teach a wide range of programming courses at the university level including Web Development, Mobile Applications, and Logic & Algorithms while simultaneously leading technical projects as a Software Developer.
 
 ## 🖥 Development Skills
 
