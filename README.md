@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About me
 
-I am a University Professor and Software Ingineer with over three years of experience developing scalable software for both freelance clients and companies. 
+I am a University Professor and Software Engineer with over three years of experience developing scalable software for both freelance clients and companies. 
 
 Currently, I teach a wide range of programming courses at the university level including Web Development, Mobile Applications, and Logic & Algorithms while simultaneously leading technical projects as a Software Developer.
 
