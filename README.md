@@ -6,17 +6,15 @@
 
 ## 👨🏻‍💻 About me
 
-Software Engineer and University Professor with 3+ years of
-professional experience designing, developing and deploying
-scalable software solutions.
+I am a Software Engineer and University Professor with over three years of professional experience designing and developing scalable software solutions for companies and freelance clients.
 
-I work across the full software development lifecycle, including
-requirements analysis, system architecture, development,
-integration, deployment and production maintenance.
+As a Software Engineer, I work across the full software development lifecycle, from requirements analysis and system design to implementation, integration, deployment, and maintenance. My main focus is full-stack web development, with experience building modern applications, APIs, database-driven systems, and business solutions.
 
-As CEO and Lead Full Stack Engineer at NETSOLCA, I lead technical
-decisions and development initiatives involving SaaS platforms,
-web applications, integrations and production environments.
+As a University Professor, I teach across the broader field of Computer Science, specializing in Advanced Web Architecture and Mobile Application Development. My teaching also covers Logic & Algorithms, Object-Oriented Programming (C++/Java), System Modeling & Simulation, and Expert Systems, allowing me to combine software engineering practice with strong theoretical foundations.
+
+Beyond academia, I serve as CEO and Lead Full Stack Engineer at NETSOLCA, where I contribute to the company's technical direction and lead software development initiatives. My responsibilities include understanding client requirements, making architectural decisions, designing solutions, and guiding the development of scalable web applications and software platforms.
+
+I am particularly interested in software architecture, full-stack development, modern web technologies, system design, and building maintainable software that solves real-world problems.
 
 ## ⚙️ Engineering
 
