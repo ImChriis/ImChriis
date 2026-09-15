@@ -43,10 +43,9 @@ Database Design · System Integration · Production Deployment
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/tu-usuario) ·
-[Portfolio](https://tuportfolio.com) ·
-[GitHub](https://github.com/tu-usuario) ·
-[Email](mailto:tuemail@example.com)
+[LinkedIn](https://www.linkedin.com/in/imchriis/) ·
+[GitHub](https://github.com/ImChriis) ·
+[Email](mailto:christophermedinabarroso@example.com)
 
 
 
