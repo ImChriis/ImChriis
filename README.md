@@ -6,11 +6,28 @@
 
 ## 👨🏻‍💻 About me
 
-I am a University Professor and Software Engineer with over three years of experience developing scalable software for both freelance clients and companies.
+Software Engineer and University Professor with 3+ years of
+professional experience designing, developing and deploying
+scalable software solutions.
 
-As a University Professor, I instruct across the full spectrum of Computer Science, specializing in Advanced Web Architecture and Mobile Application Development. My teaching also covers Logic & Algorithms, Object-Oriented Programming (C++/Java), System Modeling & Simulation, and Expert Systems, bridging core academic principles with production software engineering.
+I work across the full software development lifecycle, including
+requirements analysis, system architecture, development,
+integration, deployment and production maintenance.
 
-Beyond academia, I serve as CEO & Lead Full Stack Engineer at NETSOLCA, a long-standing technology firm founded over two decades ago. In this role, I lead the company's modern strategic restructuring and manage the entire development lifecycle—from client requirements and business proposals to architecting scalable SaaS platforms, full-stack web applications, and production deployments.
+As CEO and Lead Full Stack Engineer at NETSOLCA, I lead technical
+decisions and development initiatives involving SaaS platforms,
+web applications, integrations and production environments.
+
+## ⚙️ Engineering
+
+Web Architecture
+Full-Stack Development
+REST API Development
+Database Design
+System Integration
+CI/CD
+Production Deployment
+Technical Leadership
 
 ## 🖥 Development Skills
 
