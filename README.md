@@ -18,7 +18,7 @@ I am particularly interested in software architecture, full-stack development, m
 
 ## ⚙️ Engineering
 
-Web Architecture · Full-Stack Development · REST API Development
+Web Architecture · Full-Stack Development · REST API Development · 
 Database Design · System Integration · Production Deployment
 
 ## 🖥 Development Skills
